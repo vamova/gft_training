@@ -13,4 +13,9 @@ public class ForgotPasswordTests extends BaseTest {
         var emailSentPage = forgetPasswordPage.retrievePassword("test@test.com");
         Assert.assertEquals(emailSentPage.getMessage(),"Your e-mail's been sent!", "Message is incorrect");
     }
+
+    @Test
+    public void testone(){
+
+    }
 }
