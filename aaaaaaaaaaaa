@@ -1,0 +1,30 @@
+[33mcommit 2064d50e9363e0f416737007287a2a5580f9d94b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 417c8e9 c5977b8
+Author: alexaramfl <alexa.ram.fl@gmail.com>
+Date:   Thu Nov 12 16:21:07 2020 -0600
+
+    Merge branch 'main' of https://github.com/vamova/gft_training into main
+
+[33mcommit c5977b8327ca1a8f3b48734c8b3772c6e38b2c78[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Morera Vargas <vame@gft.com>
+Date:   Thu Nov 12 16:14:00 2020 -0600
+
+    Fixed Forgot Test
+
+[33mcommit 417c8e92cdbad7486763cc5f83209e157391c231[m
+Author: alexaramfl <alexa.ram.fl@gmail.com>
+Date:   Thu Nov 12 16:13:57 2020 -0600
+
+    Fixed Login Test
+
+[33mcommit a8254879f9b6469a0696ea641640a14d45226e09[m
+Author: vamova <vamova_06@hotmail.com>
+Date:   Thu Nov 12 15:28:49 2020 -0600
+
+    Initial training
+
+[33mcommit 09deedee6b4e6303665f079920a69519f2590cf4[m
+Author: Morera Vargas <vame@gft.com>
+Date:   Wed Nov 11 09:20:14 2020 -0600
+
+    First commit~
