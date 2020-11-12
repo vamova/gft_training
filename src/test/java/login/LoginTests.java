@@ -19,4 +19,9 @@ public class LoginTests extends BaseTest {
                         contains("You logged into a secure area!"),
                 "Alert Text is incorrect");
     }
+
+    @Test
+    public void testTito(){
+        
+    }
 }
